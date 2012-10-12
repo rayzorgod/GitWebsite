@@ -16,6 +16,8 @@
      Added even more text changes.
 
     Ray more text
+	
+	This is an enhancment for GitWebsite clone 2 and branch r2_index.
     </div>
     </form>
 </body>
