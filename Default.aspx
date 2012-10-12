@@ -16,6 +16,8 @@
      Added even more text changes.
 
     Ray more text
+	
+	Added bugfix for master.
     </div>
     </form>
 </body>
